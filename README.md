@@ -14,6 +14,7 @@ Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 ![eHAC Visitor](/images/v3.jpg)
 6. Setelah klik pilhan `eHAC Domestik Indonesia`, form yang akan tampil seperti dibawah ini, mohon isi sesuai dengan data diri anda masing-masing.
 Untuk alamat, mohon mengikuti sesuai yang ada digambar
+
 ![eHAC Form](/images/photo6098319176650304251.jpg)
 Pada Android, nomor kursi bisa dikosongkan, jika sudah selesai klik tombol `Next form`
 7. Pada halaman ini, mohon isi alamat rumah anda, jika sudah klik tombol `Next form`
