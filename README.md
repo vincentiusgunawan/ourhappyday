@@ -2,6 +2,7 @@
 
 ## Rundown
 [Click here for more detail](https://github.com/vincentiusgunawan/ourhappyday/blob/main/rundown/rundown.md)
+
 Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 
 ### Step 1
@@ -17,7 +18,6 @@ Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 Untuk alamat, mohon mengikuti sesuai yang ada digambar
 
 ![eHAC Form](/images/photo6098319176650304251.jpg)
-
 Pada Android, nomor kursi bisa dikosongkan, jika sudah selesai klik tombol `Next form`
 
 7. Pada halaman ini, mohon isi alamat rumah anda, jika sudah klik tombol `Next form`
