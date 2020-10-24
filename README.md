@@ -9,18 +9,18 @@ Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 3. Setelah selesai membuat akun, halaman pertama aplikasinya adalah seperti ini
 ![eHAC Home](/images/photo6098319176650304252.jpg)
 4. Pada halaman tersebut, klik icon `Visitor` yang ada ditengah aplikasi, tampilan halamannya seperti ini
-![eHAC Visitor](/images./photo6098319176650304253.jpg)
+![eHAC Visitor](/images/photo6098319176650304253.jpg)
 5. Dari halaman tersebut, klik tombol `+` pada sudut kanan bawah, maka akan muncul tampilan seperti ini
-![eHAC Visitor 2](/images./photo6098319176650304258.jpg)
+![eHAC Visitor 2](/images/photo6098319176650304258.jpg)
 6. Pada pilihan disudut kanan bawah, pilih `eHAC Domestik Indonesia`
 7. Setelah klik pilhan `eHAC Domestik Indonesia`, form yang akan tampil seperti dibawah ini, mohon isi sesuai dengan data diri anda masing-masing.
 Untuk alamat, mohon mengikuti sesuai yang ada digambar
-![eHAC Form](/images./photo6098319176650304251.jpg)
+![eHAC Form](/images/photo6098319176650304251.jpg)
 Pada Android, nomor kursi bisa dikosongkan, jika sudah selesai klik tombol `Next form`
 8. Pada halaman ini, mohon isi alamat rumah anda, jika sudah klik tombol `Next form`
-![eHAC Form coming](/images./photo6098319176650304256.jpg)
+![eHAC Form coming](/images/photo6098319176650304256.jpg)
 9. Pada halaman ini, kosongkan semua, lalu klik tombol `Submit
-![eHAC Form finish](/images./photo6098319176650304255.jpg)
+![eHAC Form finish](/images/photo6098319176650304255.jpg)
 10. Selesai, eHAC anda sudah selesai dibuat
 
 ### Step 2
