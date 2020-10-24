@@ -16,7 +16,9 @@ Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 Untuk alamat, mohon mengikuti sesuai yang ada digambar
 
 ![eHAC Form](/images/photo6098319176650304251.jpg)
+
 Pada Android, nomor kursi bisa dikosongkan, jika sudah selesai klik tombol `Next form`
+
 7. Pada halaman ini, mohon isi alamat rumah anda, jika sudah klik tombol `Next form`
 ![eHAC Form coming](/images/photo6098319176650304256.jpg)
 8. Pada halaman ini, kosongkan semua, lalu klik tombol `Submit
