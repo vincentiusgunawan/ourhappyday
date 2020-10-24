@@ -27,6 +27,7 @@ Pada Android, nomor kursi bisa dikosongkan, jika sudah selesai klik tombol `Next
 Jika hari keberangkatan sudah tiba, lakukan hal ini untuk memperlihatkan QR Code pada petugas bandara
 
 1. Buka aplikasi eHAC Indonesia, lalu klik halaman `Visitor`
-2. Pada halaman `Visitor` seharusnya akan ada 1 kartu
+2. Pada halaman `Visitor` seharusnya akan ada 1 kartu berwarna biru seperti gambar dibawah
+![eHAC Visitor](/images/photo6098319176650304253.jpg)
 3. Klik kartu tersebut, maka akan muncul QR Code
 4. Tunjukkan QR Code tersebut pada petugas bandara kedatangan (Bandara Depati Amir)
