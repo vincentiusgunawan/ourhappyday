@@ -1,6 +1,7 @@
 # Vincent Vita 31 Oct 2020
 
-
+## Rundown
+[Click here for more detail](https://github.com/vincentiusgunawan/ourhappyday/blob/main/rundown/rundown.md)
 Jika anda berasal dari Jakarta, berikut beberapa hal yang perlu anda siapkan:
 
 ### Step 1
